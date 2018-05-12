@@ -1,0 +1,31 @@
+_repo: Things-a-Boy-Should-Know-About-ElectricitySecond-Edition_44665
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44665-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: St. John, Thomas M. (Thomas Matthew)
+    aliases:
+    - John, Thomas M. (Thomas Matthew) St.
+    - John, Thomas M. St.
+    - St. John, Thomas Matthew
+    birthdate: 1865
+    gutenberg_agent_id: '33278'
+    url: http://www.gutenberg.org/2009/agents/33278
+description: ''
+gutenberg_issued: '2014-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44665'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Electricity'
+- !lcc 'QC'
+title: 'Things a Boy Should Know About Electricity
+
+  Second Edition'
+url: http://www.gutenberg.org/ebooks/44665
