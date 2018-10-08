@@ -27,6 +27,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Electricity'
 - !lcc 'QC'
+- GITenberg
 title: 'Things a Boy Should Know About Electricity
 
   Second Edition'
